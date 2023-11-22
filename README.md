@@ -1,16 +1,29 @@
-### Hi there 👋
+#### Hi there! I am Jasper Quartarolo, a web developer who has been climbing GitHub Mountain for only 7 months 🌛
 
-<!--
-**Quartinal/Quartinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_______________________________________________________________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+My old account is [@MarkupMaster](https://github.com/MarkupMaster), in case you have seen my name before on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### I am tied to Fedora Linux, hope I can upgrade to 39 soon 🤞
+
+#### "Just imagine" joke of the year:
+
+- If Fedora releases version 46, while current GNOME version is 45.
+
+## FAQ:
+
+### Wait, are you a 👣 user?
+
+Nah, I'm not a GNOME user, just subscribed to the KDE RSS feed 🧑‍🍼
+
+<h2>More FAQs coming soon!</h2>
+
+## My GitHub friends:
+
+<h2>@accessgames:</h2>
+
+<h4>Stats:</h4>
+
+<a href="https://github.com/accessgames">
+  
+</a>
