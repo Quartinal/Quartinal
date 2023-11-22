@@ -20,10 +20,10 @@ Nah, I'm not a GNOME user, just subscribed to the KDE RSS feed 🧑‍🍼
 
 ## My GitHub friends:
 
-<h2>@accessgames:</h2>
+<h2 style="font-size:25px;">@accessgames:</h2>
 
-<h4>Stats:</h4>
+<h4 style="font-size:20px;">Stats:</h4>
 
 <a href="https://github.com/accessgames">
-  
+  <img src="https://github-readme-stats-rouge-xi-76.vercel.app/api/top-langs/?username=accessgames&theme=dark&layout=compact" height="150px">
 </a>
