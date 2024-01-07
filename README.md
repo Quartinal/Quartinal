@@ -1,4 +1,4 @@
-#### Hi there! I am Jasper Quartarolo, a web developer who has been climbing GitHub Mountain for only 7 months 🌛
+#### Hi, there! I am Jasper Quartarolo, a web developer who has been climbing GitHub Mountain for only 7 months 🌛
 
 _______________________________________________________________________________________________________________________________________________________________________
 
