@@ -20,7 +20,7 @@ Nah, I'm not a GNOME user, just subscribed to the KDE RSS feed 🧑‍🍼
 
 ## My GitHub friends:
 
-<h2 style="font-size:25px;">@accessgames:</h2>
+@accessgames:
 
 <h4 style="font-size:20px;">Stats:</h4>
 
