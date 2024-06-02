@@ -1,6 +1,8 @@
-#### Hi, there! I am Jasper Quartarolo, a web developer who has been climbing GitHub Mountain for only 7 months 🌛
+#### Hi, there! I am Jasper Quartarolo, a web developer who has been climbing GitHub Mountain for only 1 year 🌛
 
 _______________________________________________________________________________________________________________________________________________________________________
+
+![Dipper GIF](https://i.pinimg.com/originals/e0/a1/08/e0a108f9201a6014063f853739e7d779.gif)
 
 My old account is [@MarkupMaster](https://github.com/MarkupMaster), in case you have seen my name before on GitHub.
 
@@ -20,10 +22,24 @@ Nah, I'm not a GNOME user, just subscribed to the KDE RSS feed 🧑‍🍼
 
 ## My GitHub friends:
 
-@accessgames:
+[@accessgames](https://github.com/accessgames):
 
-<h4 style="font-size:20px;">Stats:</h4>
+<h4 style="color:black;font-size:20px;">
+  Stats:
+</h4>
 
 <a href="https://github.com/accessgames">
   <img src="https://github-readme-stats-rouge-xi-76.vercel.app/api/top-langs/?username=accessgames&theme=dark&layout=compact" height="150px">
+</a>
+
+<hr>
+
+[@PrestonT500](https://github.com/PrestonT500):
+
+<h4 style="font-size:20px;">
+  Stats:
+</h4>
+
+<a href="https://github.com/PrestonT500">
+  <img src="https://github-readme-stats-rouge-xi-76.vercel.app/api/top-langs/?username=PrestonT500&theme=dark&layout=compact" height="150px">
 </a>
